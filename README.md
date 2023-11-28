@@ -1,2 +1,2 @@
 # sql_seprator
-seprate big sql file to smaller files for better upload
+Separate big SQL files into smaller files for better upload based on queries.
